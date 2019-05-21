@@ -1,0 +1,121 @@
+    1  git --version 
+   
+ 2  git --help
+   
+ 3  pwd
+   
+ 4  ls
+    5  
+cd Desktop/
+   
+ 6  pwd
+    
+7  cd PR0BELM SOLVING AND PROGRAMMING 
+  
+  8  cd PROBLEM SOLVING AND PROGRAMMING 
+ 
+   9  ls
+   
+10  cd 'PROBLEM SLOVING & PROGRAMMING 
+
+'
+  
+ 11  cd PROBLEM SLOVING & PROGRAMMING 
+ 
+  12  PWD
+  
+ 13  ls
+   
+14  cd
+  
+ 15  cd Desktop
+ 
+  16  ls
+  
+
+ 17  cd ProblemSolvingAndProgramming/
+  
+ 18  ls
+   
+19  mv PYTHON\ PROGRAMMING/ PythonProgramming
+   
+20  ls
+   
+21  pwd
+   
+22  mkdir Git
+  
+ 23  ls
+  
+ 24  mkdir Git
+ 
+  25  ls
+  
+ 26  cd Git 
+ 
+
+  27  git --version 
+  
+
+ 28  git config--list
+   
+29  git --help
+   
+30  git config user.name
+   
+31  git config--list 
+   
+32  git config -- list
+   
+33  git config --list
+   34  git config --gloabal user.name"SunilSriharsha"
+   35  git config --global user.name"SunilSriharsha"
+   36  git config user.name
+   37  git config user,email
+   38  git config user.email
+   39  git config user.name
+   40  git config --global user.name "SunilSriharsha"
+   41  git config user.name
+   42  git config --global user.email sunilsriharhsa9@gmail.com
+   43  git config --global user.email
+   44  touch file1.txt
+   45  ls
+   46  git init
+   47  git status
+   48  git add file1.txt
+   49  git status
+   50  git commit-m "first file commit"
+   51  git commit -m "first file commit"
+   52  git status
+   53  echo "data in line one" > file1.txt
+   54  cat file1.txt
+   55  git status
+   56  git add file1.txt
+   57  git status
+   58  git commit -m "file1 second commit"
+   59  git status
+   60  git log
+   61  pwd
+   62  touch file{2..10}.txt
+   63  ls
+   64  touch file{11..100}.txt
+   65  ls
+   66  rm file{11..100}.txt
+   67  ls
+   68  git status
+   69  git add file{2..10}.txt
+   70  git status
+   71  git reset HEAD file{2..10}.txt
+   72  git status
+   73  git add file{2..10}.txt
+   74  git status
+   75  git commit -m "added 9 new files"
+   76  git status
+   77  git log
+   78  pwd
+   79  git clone https://github.com/Akash-Sinha/Gitam-Skill-Enhancement-May-2019
+   80  pwd
+   81  ls
+   82  pwd
+   83  ls
+   84  history 100 > git-commands.txt
